@@ -161,3 +161,7 @@ cython_debug/
 
 # Environment folder
 collancer_base/
+
+# Excel files
+.xls
+.xlsx
